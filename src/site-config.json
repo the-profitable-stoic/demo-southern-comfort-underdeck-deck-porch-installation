@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Southern Comfort Underdeck | Deck & Porch Installations",
+    "phone": "+16787762396",
+    "category": "deck builder",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Atlanta's Deck & Porch Authority",
+      "heroSubline": "Expert craftsmanship. Built to endure Georgia's climate. Elevate your outdoor living space.",
+      "aboutTitle": "Crafting Comfort, Building Trust",
+      "aboutText": [
+        "Southern Comfort Underdeck started with a simple goal: to build decks and porches that stand the test of time in Atlanta's challenging climate. We're not just builders; we're craftsmen passionate about creating outdoor spaces where families can make memories.",
+        "Our approach is straightforward: meticulous planning, quality materials, and skilled execution. We understand that Atlanta's red clay soil and humid summers demand robust construction, and we build accordingly. We prioritize clear communication and transparent pricing, ensuring you're informed every step of the way.",
+        "We're Atlantans, and we're invested in our community. We source materials locally whenever possible, supporting local businesses and reducing our environmental footprint. We believe in giving back, and we frequently volunteer our time and resources to local organizations."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Construction",
+          "description": "Built with premium materials and proven techniques to withstand Atlanta's weather extremes."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "We collaborate with you to create a unique outdoor space that reflects your style and needs."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates upfront."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise and professional installation for long-lasting results."
+        }
+      ],
+      "ctaHeadline": "Build Your Dream Deck Today",
+      "ctaSubline": "Transform your backyard into an outdoor oasis. Contact us for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "custom-decks",
+        "name": "Custom Deck Design & Build",
+        "shortDescription": "Transform your outdoor living space with a custom-designed deck tailored to your needs.",
+        "description": "Dreaming of a deck that perfectly complements your Atlanta home? We specialize in custom deck design and construction, creating outdoor spaces that are both beautiful and functional. From initial concept to final installation, we work closely with you to bring your vision to life.\n\nWe consider every detail, from the size and shape of your deck to the materials and finishes. Whether you envision a sprawling multi-level deck for entertaining or a cozy, intimate space for relaxation, we have the expertise to make it a reality. We navigate Atlanta's permitting process, ensuring your deck meets all local codes and regulations.\n\nOur team uses only the highest-quality materials, chosen for their durability and resistance to Atlanta's humid climate. We offer a wide range of decking options, including pressure-treated lumber, composite decking, and exotic hardwoods. We handle all aspects of the project, including framing, decking, railings, stairs, and lighting, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Initial Consultation & Design – Discuss your vision, budget, and site conditions.",
+          "Step 2: Material Selection & Permitting – Choose your materials and obtain necessary permits.",
+          "Step 3: Construction & Installation – Expert construction following approved plans.",
+          "Step 4: Final Inspection & Walkthrough – Ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Outdoor Living Space",
+          "Customized Design to Fit Your Needs",
+          "Durable Construction for Long-Lasting Enjoyment"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Atlanta's climate?",
+            "answer": "Composite decking is a popular choice due to its resistance to moisture, fading, and insect damage. Pressure-treated lumber is another cost-effective option, but it requires regular maintenance."
+          },
+          {
+            "question": "How long does it take to build a custom deck?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but typically ranges from 2 to 6 weeks. We'll provide a detailed schedule during the initial consultation."
+          },
+          {
+            "question": "Do I need a permit to build a deck in Atlanta?",
+            "answer": "Yes, in most cases, a permit is required for deck construction in Atlanta. We handle the permitting process for you, ensuring compliance with all local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "porch-construction",
+        "name": "Porch Construction & Renovation",
+        "shortDescription": "Extend your living space outdoors with a custom-built porch or revitalize your existing one.",
+        "description": "From charming front porches that welcome guests to expansive screened-in porches that offer respite from Atlanta's summer heat, we specialize in porch construction and renovation. We understand the unique architectural styles of Atlanta's neighborhoods, including the Craftsman bungalows of Virginia-Highland and the mid-century ranches of surrounding areas.\n\nOur team can design and build a porch that seamlessly integrates with your home's existing architecture. We offer a wide range of porch styles, including open porches, screened-in porches, and enclosed porches. We use high-quality materials and construction techniques to ensure your porch is both beautiful and durable.\n\nWhether you're looking to add a new porch to your home or renovate an existing one, we can help. We handle all aspects of the project, including design, permitting, construction, and finishing. We pay close attention to detail, ensuring your porch is built to the highest standards.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your porch goals and aesthetic preferences.",
+          "Step 2: Material Selection & Permitting – Choose your materials and secure necessary permits.",
+          "Step 3: Porch Construction – Expert framing, roofing, and finishing.",
+          "Step 4: Final Walkthrough – Ensure complete satisfaction with your new porch."
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Expanded Living Space",
+          "Protection from the Elements",
+          "Enhanced Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a screened-in porch?",
+            "answer": "Screened-in porches provide protection from insects, rain, and sun, allowing you to enjoy the outdoors in comfort. They're also a great way to extend your living space and add value to your home."
+          },
+          {
+            "question": "Can you match the existing architectural style of my home?",
+            "answer": "Yes, we have experience working with a variety of architectural styles, including Craftsman, Ranch, and Modern. We'll carefully consider your home's existing design when creating your porch."
+          },
+          {
+            "question": "How much does it cost to build a porch?",
+            "answer": "The cost of building a porch varies depending on the size, style, and materials used. We'll provide a detailed estimate after assessing your project."
+          }
+        ]
+      },
+      {
+        "slug": "underdeck-systems",
+        "name": "Underdeck Waterproofing Systems",
+        "shortDescription": "Transform the unused space beneath your deck into a dry, usable outdoor area.",
+        "description": "Don't let the space under your deck go to waste! Our underdeck waterproofing systems create a dry, usable outdoor area beneath your raised deck, perfect for entertaining, storage, or simply relaxing. We understand the challenges of Atlanta's frequent thunderstorms and ensure your underdeck system is built to withstand heavy rainfall.\n\nWe use high-quality materials and proven installation techniques to create a watertight barrier that channels water away from your home's foundation. Our systems are custom-designed to fit your specific deck and home, ensuring a seamless and professional installation.\n\nBenefits include increased property value, expanded living space, and protection from the elements. We offer a variety of underdecking options to suit your style and budget.",
+        "process": [
+          "Step 1: Site Assessment – Evaluate your deck's structure and drainage.",
+          "Step 2: System Design & Selection – Choose the best underdeck system for your needs.",
+          "Step 3: Professional Installation – Expert installation for a watertight seal.",
+          "Step 4: Final Inspection – Ensure proper drainage and functionality."
+        ],
+        "benefits": [
+          "Dry, Usable Outdoor Space",
+          "Protection from Rain and Snow",
+          "Increased Home Value",
+          "Reduced Moisture Damage"
+        ],
+        "faq": [
+          {
+            "question": "How does an underdeck system work?",
+            "answer": "An underdeck system consists of a series of gutters and panels that are installed beneath your deck joists to collect and channel rainwater away from your home's foundation."
+          },
+          {
+            "question": "Will an underdeck system affect the structural integrity of my deck?",
+            "answer": "No, our underdeck systems are designed to be lightweight and non-intrusive, and they will not affect the structural integrity of your deck."
+          },
+          {
+            "question": "Can I install an underdeck system myself?",
+            "answer": "While DIY kits are available, professional installation is recommended to ensure a watertight seal and proper drainage. Improper installation can lead to water damage and costly repairs."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair",
+        "name": "Deck Repair & Maintenance",
+        "shortDescription": "Extend the life of your deck with expert repair and maintenance services.",
+        "description": "Is your deck showing signs of wear and tear? We offer comprehensive deck repair and maintenance services to keep your outdoor space safe and beautiful. From replacing damaged boards to repairing loose railings, we have the expertise to handle any deck repair project. We understand that Atlanta's climate can be harsh on decks, leading to rot, decay, and insect damage.\n\nOur team will thoroughly inspect your deck to identify any potential problems and provide you with a detailed repair plan. We use high-quality materials and proven techniques to ensure your deck is restored to its original condition. We also offer preventative maintenance services, such as cleaning, sealing, and staining, to help protect your deck from the elements.\n\nRegular maintenance can significantly extend the life of your deck and prevent costly repairs down the road.",
+        "process": [
+          "Step 1: Deck Inspection – Thoroughly assess the condition of your deck.",
+          "Step 2: Repair Plan & Estimate – Provide a detailed repair plan and cost estimate.",
+          "Step 3: Deck Repair – Expertly repair damaged boards, railings, and stairs.",
+          "Step 4: Sealing & Staining (Optional) – Protect your deck from the elements."
+        ],
+        "benefits": [
+          "Increased Deck Lifespan",
+          "Improved Safety",
+          "Enhanced Appearance",
+          "Prevention of Costly Repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal or stain my deck?",
+            "answer": "We recommend sealing or staining your deck every 1-2 years, depending on the type of wood and the level of exposure to the elements. Regular sealing and staining can help protect your deck from moisture damage, fading, and cracking."
+          },
+          {
+            "question": "What are the signs that my deck needs repair?",
+            "answer": "Signs that your deck needs repair include rotting wood, loose railings, cracked or warped boards, and insect damage. If you notice any of these problems, it's important to address them promptly to prevent further damage."
+          },
+          {
+            "question": "Can you repair a deck that has been damaged by termites?",
+            "answer": "Yes, we can repair decks that have been damaged by termites. We'll remove the damaged wood and replace it with treated lumber to prevent future infestations. We also recommend contacting a pest control professional to treat the underlying termite problem."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect and beautify your deck with professional staining and sealing services.",
+        "description": "Protect your investment and enhance the natural beauty of your deck with our professional staining and sealing services. Atlanta's humid climate can take a toll on decks, causing them to fade, crack, and rot. Our staining and sealing services provide a protective barrier against the elements, extending the life of your deck and keeping it looking its best.\n\nWe use high-quality stains and sealants that are specifically designed for outdoor use. We offer a wide range of colors and finishes to suit your style and preferences. Our team will carefully prepare your deck surface, ensuring proper adhesion and a long-lasting finish.\n\nRegular staining and sealing can prevent water damage, insect infestation, and UV damage, keeping your deck looking beautiful for years to come.",
+        "process": [
+          "Step 1: Deck Cleaning – Thoroughly clean the deck surface to remove dirt and debris.",
+          "Step 2: Surface Preparation – Sand or strip the deck to ensure proper adhesion.",
+          "Step 3: Staining/Sealing Application – Apply stain or sealant evenly and professionally.",
+          "Step 4: Final Inspection – Ensure a uniform finish and proper protection."
+        ],
+        "benefits": [
+          "Protection from the Elements",
+          "Enhanced Appearance",
+          "Increased Deck Lifespan",
+          "Prevention of Water Damage and Insect Infestation"
+        ],
+        "faq": [
+          {
+            "question": "What's the difference between stain and sealant?",
+            "answer": "Stain adds color to the wood and provides some protection from the elements, while sealant is a clear coating that provides a waterproof barrier. We often recommend using both stain and sealant for optimal protection and beauty."
+          },
+          {
+            "question": "How long does stain or sealant last?",
+            "answer": "The lifespan of stain or sealant depends on the product used and the level of exposure to the elements. Generally, stain or sealant should be reapplied every 1-2 years."
+          },
+          {
+            "question": "Do I need to clean my deck before staining or sealing?",
+            "answer": "Yes, it's essential to clean your deck thoroughly before staining or sealing to remove dirt, debris, and mildew. We offer professional deck cleaning services to ensure your deck is properly prepared."
+          }
+        ]
+      },
+      {
+        "slug": "railing-installation",
+        "name": "Railing Installation & Repair",
+        "shortDescription": "Enhance safety and style with expert railing installation and repair services.",
+        "description": "Ensure the safety and aesthetic appeal of your deck or porch with our railing installation and repair services. We offer a wide range of railing options to suit your style and budget, including wood, composite, aluminum, and vinyl. Whether you're looking to replace outdated railings or install new ones, we have the expertise to handle the job.\n\nOur team will carefully install your railings, ensuring they meet all safety codes and regulations. We also offer repair services for damaged or loose railings, restoring them to their original condition. We understand the importance of safety, especially for families with children and pets.\n\nChoose from a variety of styles and materials to complement your home's architecture and enhance your outdoor living space.",
+        "process": [
+          "Step 1: Railing Selection – Choose the style and material that best suits your needs.",
+          "Step 2: Measurement & Design – Accurately measure and design the railing system.",
+          "Step 3: Professional Installation – Expert installation ensuring safety and stability.",
+          "Step 4: Final Inspection – Verify compliance with safety codes and regulations."
+        ],
+        "benefits": [
+          "Enhanced Safety",
+          "Improved Aesthetics",
+          "Increased Home Value",
+          "Compliance with Safety Codes"
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of railing materials?",
+            "answer": "We offer a variety of railing materials, including wood, composite, aluminum, and vinyl. Each material has its own unique benefits and drawbacks. Wood is a classic choice that offers a natural look, while composite is a low-maintenance option that resists rot and decay. Aluminum is a durable and lightweight material, while vinyl is a cost-effective option that is easy to clean."
+          },
+          {
+            "question": "How high should deck railings be?",
+            "answer": "Deck railings should be at least 36 inches high for residential decks and 42 inches high for commercial decks. Local building codes may have additional requirements."
+          },
+          {
+            "question": "Can you repair damaged railings?",
+            "answer": "Yes, we offer repair services for damaged or loose railings. We can replace damaged posts, rails, and balusters to restore your railings to their original condition."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations is proud to offer our expert deck building and underdecking services to the residents of Marietta, GA. We understand the unique character of Marietta, from its established subdivisions dating back to the 1960s and 70s to its more modern developments. Our team is experienced in working with the diverse architectural styles found throughout the area, ensuring that your new deck or underdeck system seamlessly integrates with your home's existing aesthetic. We are experts at turning your outdoor space into a place of relaxation and a place to gather with friends and family. \n\nMarietta's hot, humid summers make a durable and weather-resistant deck or underdeck system essential. We use only the highest-quality materials and construction techniques to ensure that your investment will withstand the elements for years to come. Whether you're looking to build a new deck from scratch, add an underdeck drainage system to your existing deck, or repair or maintain your current outdoor space, Southern Comfort Underdeck is here to help. We will work with you to create a space that perfectly complements your lifestyle and enhances your enjoyment of your Marietta home.",
+        "localContext": "Marietta boasts a blend of historic charm and modern amenities, with many homes featuring mature landscaping and established outdoor living spaces.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations provides top-quality deck building and underdecking solutions to homeowners in Roswell, GA. Knowing Roswell is known for its upscale subdivisions built primarily in the 1980s and 90s, we tailor our services to meet the specific needs and preferences of this community. We specialize in creating outdoor living spaces that are both beautiful and functional, adding value and enjoyment to your Roswell home.\n\nGiven Roswell's hot, humid summers, a well-designed and expertly installed deck or underdeck system is crucial for extending your outdoor living season. We use premium materials and proven construction methods to ensure that your deck or underdeck can withstand the elements and provide years of reliable performance. Whether you need a brand-new deck, an underdeck drainage system to protect your patio from the elements, or expert repairs to your existing deck, Southern Comfort Underdeck is your trusted partner in Roswell.",
+        "localContext": "Roswell features many upscale homes with a focus on outdoor entertaining and relaxed living.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Johns Creek"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations is dedicated to serving the residents of Alpharetta, GA, with exceptional deck building and underdecking services. Alpharetta is known for its upscale developments built in the 1990s and 2000s, and we understand the importance of creating outdoor living spaces that complement the sophisticated aesthetics of these homes. Our team is skilled at designing and building decks and underdeck systems that are both stylish and functional, enhancing your Alpharetta lifestyle.\n\nAlpharetta's hot, humid summers demand durable and weather-resistant outdoor structures. We use only the highest-quality materials and construction techniques to ensure that your deck or underdeck system will withstand the elements and provide years of enjoyment. From custom deck designs to underdeck drainage solutions, Southern Comfort Underdeck is committed to exceeding your expectations. Whether you need a new deck built, an underdeck installed, or your existing deck repaired, we can help.",
+        "localContext": "Alpharetta is known for its modern suburban landscape and emphasis on quality outdoor living spaces.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations is proud to offer our expert deck building and underdecking services to homeowners in Johns Creek, GA. We are familiar with Johns Creek's upscale subdivisions, many of which were developed in the 1990s and 2000s. We understand the importance of creating outdoor living spaces that are both beautiful and functional, adding value and enjoyment to your Johns Creek home.\n\nJohns Creek's hot, humid summers make a durable and weather-resistant deck or underdeck system essential. We use only the highest-quality materials and construction techniques to ensure that your investment will withstand the elements for years to come. Whether you're looking to build a new deck from scratch, add an underdeck drainage system to your existing deck, or repair or maintain your current outdoor space, Southern Comfort Underdeck is here to help. We will work with you to create a space that perfectly complements your lifestyle and enhances your enjoyment of your Johns Creek home.",
+        "localContext": "Johns Creek is known for its well-maintained neighborhoods and desire for high-quality outdoor living spaces.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations is pleased to provide deck and underdeck solutions to the residents of Kennesaw, GA. We understand the character of Kennesaw, with its suburban developments primarily built in the 1980s and 90s. Our team is experienced in working with the diverse architectural styles found throughout the area, ensuring that your new deck or underdeck system seamlessly integrates with your home's existing aesthetic.\n\nKennesaw's hot, humid summers make a durable and weather-resistant deck or underdeck system essential. We use only the highest-quality materials and construction techniques to ensure that your investment will withstand the elements for years to come. Whether you're looking to build a new deck from scratch, add an underdeck drainage system to your existing deck, or repair or maintain your current outdoor space, Southern Comfort Underdeck is here to help. We will work with you to create a space that perfectly complements your lifestyle and enhances your enjoyment of your Kennesaw home.",
+        "localContext": "Kennesaw offers a mix of family-friendly neighborhoods and outdoor recreational opportunities. Many homes have existing decks that can be updated or enhanced with underdeck systems.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Smyrna"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations provides top-quality deck building and underdecking solutions to homeowners in Smyrna, GA. We understand the unique character of Smyrna, with its blend of older homes and newer developments. We tailor our services to meet the specific needs and preferences of this community. We specialize in creating outdoor living spaces that are both beautiful and functional, adding value and enjoyment to your Smyrna home.\n\nSmyrna's hot, humid summers make a well-designed and expertly installed deck or underdeck system crucial for extending your outdoor living season. We use premium materials and proven construction methods to ensure that your deck or underdeck can withstand the elements and provide years of reliable performance. Whether you need a brand-new deck, an underdeck drainage system to protect your patio from the elements, or expert repairs to your existing deck, Southern Comfort Underdeck is your trusted partner in Smyrna.",
+        "localContext": "Smyrna is known for its vibrant community, parks, and proximity to Atlanta, making outdoor living a popular choice for residents.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Mableton"
+        ]
+      },
+      {
+        "city": "Suwanee",
+        "slug": "suwanee-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations is dedicated to serving the residents of Suwanee, GA, with exceptional deck building and underdecking services. Suwanee is known for its family-friendly atmosphere and well-maintained homes, and we understand the importance of creating outdoor living spaces that complement the lifestyle of this community. Our team is skilled at designing and building decks and underdeck systems that are both stylish and functional, enhancing your Suwanee home.\n\nSuwanee's hot, humid summers demand durable and weather-resistant outdoor structures. We use only the highest-quality materials and construction techniques to ensure that your deck or underdeck system will withstand the elements and provide years of enjoyment. From custom deck designs to underdeck drainage solutions, Southern Comfort Underdeck is committed to exceeding your expectations.",
+        "localContext": "Suwanee is a popular suburb known for its parks and community events, where outdoor living is highly valued.",
+        "nearbyAreas": [
+          "Johns Creek",
+          "Cumming",
+          "Buford"
+        ]
+      },
+      {
+        "city": "Cumming",
+        "slug": "cumming-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations is proud to offer our expert deck building and underdecking services to homeowners in Cumming, GA. We understand the unique needs of Cumming residents, from new construction to established homes, and we tailor our services to meet your specific requirements. Our team is experienced in working with a wide range of architectural styles, ensuring that your new deck or underdeck system seamlessly integrates with your home's existing aesthetic.\n\nCumming's hot, humid summers make a durable and weather-resistant deck or underdeck system essential. We use only the highest-quality materials and construction techniques to ensure that your investment will withstand the elements for years to come. Whether you're looking to build a new deck from scratch, add an underdeck drainage system to your existing deck, or repair or maintain your current outdoor space, Southern Comfort Underdeck is here to help.",
+        "localContext": "Cumming is a growing community known for its scenic beauty and outdoor recreational opportunities, making outdoor living a priority for many homeowners.",
+        "nearbyAreas": [
+          "Suwanee",
+          "Alpharetta",
+          "Gainesville"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "Southern Comfort Underdeck | Deck & Porch Installations proudly serves Sandy Springs, GA, offering expert deck construction and underdeck solutions to enhance your outdoor living space. We understand the diverse architectural styles and needs of Sandy Springs homeowners, from modern residences to traditional homes. Our skilled team is committed to designing and building decks and underdeck systems that seamlessly integrate with your property, adding both beauty and functionality.\n\nGiven Sandy Springs' humid summers, a durable and weather-resistant deck or underdeck system is essential. We use only the highest-quality materials and proven construction techniques to ensure that your investment will withstand the elements and provide years of enjoyment. Whether you're looking to build a new deck from scratch, add an underdeck drainage system to your existing deck, or repair or maintain your current outdoor space, Southern Comfort Underdeck is here to help. We will work with you to create a space that perfectly complements your lifestyle and enhances your enjoyment of your Sandy Springs home.",
+        "localContext": "Sandy Springs features a mix of residential areas and commercial centers, with many homes boasting spacious yards and a desire for outdoor entertainment areas.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Atlanta"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Deck Design & Build",
+        "text": "Southern Comfort Underdeck built an amazing deck for our home in Midtown! They listened to our ideas and created a design that perfectly fits our style. The construction crew was professional and efficient, and the finished product is even better than we imagined. Highly recommend!",
+        "date": "2024-10-26"
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "service": "Porch Construction & Renovation",
+        "text": "We hired Southern Comfort Underdeck to screen in our existing porch, and we're very happy with the results. The team was knowledgeable and helpful throughout the process. There were a couple of minor delays due to weather, but they communicated clearly and kept us informed. The porch is now our favorite spot to relax!",
+        "date": "2024-09-15"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Underdeck Waterproofing Systems",
+        "text": "We had an underdeck system installed to create a dry space under our deck, and it has made a huge difference! The quality of the materials and workmanship is exceptional. We can now use the space for storage and entertaining, even when it's raining. Great job!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Deck Repair & Maintenance",
+        "text": "Our deck was in rough shape after years of neglect. Southern Comfort Underdeck did an excellent job repairing and restoring it. They replaced several damaged boards, repaired the railings, and applied a fresh coat of stain. It looks like new again! Thank you!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Deck Staining & Sealing",
+        "text": "Southern Comfort Underdeck stained and sealed our deck, and it looks fantastic. They were prompt, professional, and paid attention to detail. The only reason I didn't give them 5 stars is that the price was a bit higher than other quotes we received, but the quality of the work was worth it.",
+        "date": "2024-06-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Railing Installation & Repair",
+        "text": "We needed to replace our old, wobbly deck railings, and Southern Comfort Underdeck provided excellent service. They helped us choose a new railing style that complements our home, and the installation was quick and efficient. We feel much safer now!",
+        "date": "2024-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Atlanta Deck Builder | Southern Comfort Underdeck",
+        "description": "Expert deck and porch construction in Atlanta, GA. Custom designs, durable materials, and reliable service. Free consultations!"
+      },
+      "about": {
+        "title": "About Southern Comfort Underdeck | Atlanta Deck Experts",
+        "description": "Learn about Southern Comfort Underdeck's commitment to quality deck building in Atlanta. Experienced team, local focus, and customer satisfaction."
+      },
+      "services": {
+        "title": "Deck & Porch Services | Southern Comfort Underdeck Atlanta",
+        "description": "Comprehensive deck services in Atlanta: custom design, construction, repair, staining, and underdeck systems. Quality craftsmanship guaranteed."
+      },
+      "contact": {
+        "title": "Contact Southern Comfort Underdeck | Atlanta Deck Quotes",
+        "description": "Get a free quote for your deck or porch project in Atlanta. Contact Southern Comfort Underdeck today for reliable service and expert craftsmanship."
+      },
+      "reviews": {
+        "title": "Southern Comfort Underdeck Reviews | Atlanta Deck Builder",
+        "description": "Read reviews from satisfied Southern Comfort Underdeck customers in Atlanta. See why we're the trusted choice for deck and porch construction."
+      },
+      "service-areas": {
+        "title": "Southern Comfort Underdeck Service Areas | Atlanta GA",
+        "description": "Southern Comfort Underdeck serves Atlanta and surrounding areas. Quality deck and porch construction for your home. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-decks": "/images/service-custom-decks.webp",
+      "porch-construction": "/images/service-porch-construction.webp",
+      "underdeck-systems": "/images/service-underdeck-systems.webp",
+      "deck-repair": "/images/service-deck-repair.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp",
+      "railing-installation": "/images/service-railing-installation.webp"
+    },
+    "servicesResponsive": {
+      "custom-decks": {
+        "src": "/images/service-custom-decks.webp",
+        "srcset": "/images/service-custom-decks-400w.webp 400w, /images/service-custom-decks-800w.webp 800w, /images/service-custom-decks-1200w.webp 1200w, /images/service-custom-decks.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "porch-construction": {
+        "src": "/images/service-porch-construction.webp",
+        "srcset": "/images/service-porch-construction-400w.webp 400w, /images/service-porch-construction-800w.webp 800w, /images/service-porch-construction-1200w.webp 1200w, /images/service-porch-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "underdeck-systems": {
+        "src": "/images/service-underdeck-systems.webp",
+        "srcset": "/images/service-underdeck-systems-400w.webp 400w, /images/service-underdeck-systems-800w.webp 800w, /images/service-underdeck-systems-1200w.webp 1200w, /images/service-underdeck-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair": {
+        "src": "/images/service-deck-repair.webp",
+        "srcset": "/images/service-deck-repair-400w.webp 400w, /images/service-deck-repair-800w.webp 800w, /images/service-deck-repair-1200w.webp 1200w, /images/service-deck-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "railing-installation": {
+        "src": "/images/service-railing-installation.webp",
+        "srcset": "/images/service-railing-installation-400w.webp 400w, /images/service-railing-installation-800w.webp 800w, /images/service-railing-installation-1200w.webp 1200w, /images/service-railing-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
